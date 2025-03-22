@@ -73,6 +73,7 @@ MAPE (%)| 8.419
 - **RMSE (Root Mean Squared Error):** The model's predictions deviate from the true values by ~0.59 units on average
 - **MAE (Mean Absolute Error):** Predictions are ~0.47 units away from actual values on average.
 - **R² (R-Squared):** The model explains ~46.6% of the variance in the target variable, indicating moderate predictive power.
+- **Explained Variance:** Confirms alignment with R², suggesting no systematic bias in predictions.
 - **MAPE (Mean Absolute Percentage Error):** Predictions are ~8.4% off from true values on average
 
 ## 🌟 Future Enhancements
