@@ -1,0 +1,23 @@
+Event JSON
+
+{
+  "body": "7.4,0.7,0.0,1.9,0.076,11.0,34.0,0.9978,3.51,0.56,9.4",
+  "headers": {
+    "Content-Type": "text/csv"
+  }
+}
+
+Output
+
+Response:
+{
+  "statusCode": 200,
+  "body": "{\"quality\": 5.145884037017822}"
+}
+
+Function Logs:
+START RequestId: b84fa3a4-4c33-4ab0-a385-7e687eeac94e Version: $LATEST
+END RequestId: b84fa3a4-4c33-4ab0-a385-7e687eeac94e
+REPORT RequestId: b84fa3a4-4c33-4ab0-a385-7e687eeac94e	Duration: 541.32 ms	Billed Duration: 542 ms	Memory Size: 128 MB	Max Memory Used: 78 MB
+
+Request ID: b84fa3a4-4c33-4ab0-a385-7e687eeac94e
